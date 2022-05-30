@@ -1,0 +1,40 @@
+Drug Name                       Tier Designation  Specialty  Prior Authorization  Dispensing Limits  Step Therapy  ACA
+cefdinir for susp 125 mg/5ml    np
+cefdinir for susp 250 mg/5ml    np
+cefixime cap 400 mg (Suprax)    np
+cefixime for susp 100 mg/5ml    np
+(Suprax)
+cefixime for susp 200 mg/5ml    np
+(Suprax)
+cefpodoxime proxetil for susp   np
+50 mg/5ml
+cefpodoxime proxetil for susp   np
+100 mg/5ml
+cefpodoxime proxetil tab        np
+100 mg
+cefpodoxime proxetil tab        np
+200 mg
+cefprozil for susp 125 mg/5ml   np
+cefprozil for susp 250 mg/5ml   np
+cefprozil tab 250 mg            np
+cefprozil tab 500 mg            np
+cefuroxime axetil tab 250 mg    np
+cefuroxime axetil tab 500 mg    np
+CEPHALEXIN- cephalexin tab      NP
+250 mg
+CEPHALEXIN- cephalexin tab      NP
+500 mg
+cephalexin cap 250 mg (Keflex)  p
+cephalexin cap 500 mg (Keflex)  p
+cephalexin cap 750 mg (Keflex)  np
+cephalexin for susp 125 mg/5ml  np
+cephalexin for susp 250 mg/5ml  np
+SUPRAX- cefixime chew tab       P
+100 mg
+SUPRAX- cefixime chew tab       P
+200 mg
+SUPRAX- cefixime for susp       P
+500 mg/5ml
+MACROLIDES
+AZITHROMYCIN- azithromycin      P
+powd pack for susp 1 gm
